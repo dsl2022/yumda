@@ -6,3 +6,7 @@ amazon-linux-2/build/lambda2
 packaged.yaml
 examples/*/dependencies*
 __pycache__
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
